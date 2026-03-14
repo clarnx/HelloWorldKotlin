@@ -6,8 +6,6 @@ It is a simple Hello, World! application program written in Kotlin. It illustrat
 
 The goal of my creation of this software is to install and test my Kotlin development environment, learn the basics of the Kotlin compilation process, and establish a base on which future and more complex Kotlin applications will be built.
 
-[Software Demo Video](http://youtube.link.goes.here)
-
 # Development Environment
 
 I developed this software on macOS using the VSCode IDE. The Kotlin compiler (`kotlinc`) and the OpenJDK runtime were installed via Homebrew. The program is compiled into a JAR file using `kotlinc` with the `-include-runtime` flag, and executed with the `java -jar` command.
